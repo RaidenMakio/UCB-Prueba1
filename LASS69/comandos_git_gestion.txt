@@ -1,0 +1,94 @@
+TAREA ING DE SOFTWARE - CONCEPTOS | LUCAS A. SORIA SOLIZ
+
+Gestión de proyectos.- Es la capacidad de controlar nuestros proyectos y admi-
+nistrarlos de manera correcta para que cumpla los objetivos.
+------------------------------------------------------------------------------
+Cuando piensas en la gestión de proyectos tradicional y secuencial, lo que te 
+imaginas es la gestión de proyectos en cascada. Con este método, se divide el 
+proyecto en diferentes fases. Cuando una fase termina, comienza la siguiente, 
+es decir, no hay solapamiento entre ellas.(Atlassian.com)
+
+CONTROL DE VERSIONES.- Son las distintas etapas del software en las cuales po-
+demos controlar las actualizaciones y cambios de el software.
+------------------------------------------------------------------------------
+El control de versiones, también conocido como "control de código fuente", es 
+la práctica de rastrear y gestionar los cambios en el código de software. Los 
+sistemas de control de versiones son herramientas de software que ayudan a los 
+equipos de software a gestionar los cambios en el código fuente a lo largo del 
+tiempo.(Atlassian.com)
+
+REQUERIMIENTOS DE SOFTWARE.- Son los recursos que tenemos, y que podemos hacer
+con eso para cumplir con los objetivos del cliente.
+------------------------------------------------------------------------------
+Los Requerimientos de Software son las necesidades de los Stakeholders que 
+requiere que el Sistema deba de cumplir de manera Satisfactoria. Son los que 
+definen las funciones que el sistema será capaz de realizar, describen las 
+transformaciones que el sistema realiza sobre las entradas para producir 
+salidas.(northware.mx)
+
+CALIDAD EN EL SOFTWARE.- Se refiere a la calidad con la que presentamos el 
+software, que tanto cumplio las espectativas del cliente y si las supera, que
+tan intuitivo es con el usuario y que tan bien se ve.
+------------------------------------------------------------------------------
+Calidad en el software está en relación directa con el cumplimiento de los 
+requerimientos formulados por el usuario, de tal forma que si un programa no 
+cumple con alguno de estos requerimientos, es un software de baja calidad.
+(saludelectronica.com)
+
+******************************************************************************
+COMANDOS DE GIT
+******************************************************************************
+
+Git.- Git es como un historial de cambios para tus archivos permitiéndote 
+trabajar en distintas versiones y colaborar otros en proyectos.
+------------------------------------------------------------------------------
+Git es un sistema de control de versiones distribuido gratuito y de código 
+abierto diseñado para manejar todo, desde proyectos pequeños hasta proyectos 
+muy grandes con velocidad y eficiencia.(git.com, 2005)
+
+GIT branch.- Git branch es un comando usado para sacar ramas de una rama prin-
+cipal, lo que nos permite trabajar paralelamente con otros desarrolladores.
+------------------------------------------------------------------------------
+El git branchcomando le permite crear, enumerar, cambiar el nombre y eliminar 
+ramas. No le permite cambiar entre ramas ni volver a armar un historial bifur-
+cado.(Atlassian.com)
+
+GIT checkout.- Es un comando utilizado para cambiar entre ramas y trabajar en
+la que se elija.
+------------------------------------------------------------------------------
+Para prepararse para trabajar en <branch>, cambie a él actualizando el índice y
+los archivos en el árbol de trabajo y señalando HEADla rama.(git.com)
+
+GIT remote.- Es un comando que se utiliza para realizar cambios en un reposito-
+rio remoto.
+-------------------------------------------------------------------------------
+El git remote comando es una pieza del sistema más amplio que es responsable de 
+sincronizar los cambios. Los registros registrados a través del git remote
+comando se utilizan junto con elgit buscar,git empujar, y git tirar comandos.
+(git.com)
+
+GIT clone.- Es un comando que se utiliza para clonar repositorios y trabajar en
+ellos localmente.
+-------------------------------------------------------------------------------
+Clona un repositorio en un directorio recien creado, crea ramas de seguimiento
+remoto para cada rama en el repositorio clonado, cre y comprueba una rama ini-
+cial que esta bifurcada desde la rama actualmente activa del repositorio clona-
+do.(git.com)
+
+GIT merge.- Es un comando que se utiliza para combinar cambios a una rama prin-
+cipal.
+-------------------------------------------------------------------------------
+git merge combinará varias secuencias de confirmaciones en un historial unifi-
+cado. En los casos de uso más frecuentes, git merge se utiliza para combinar 
+dos ramas. Los ejemplos siguientes del presente documento se centrarán en este 
+patrón de fusión de ramas.(atlassian.com)
+
+GIT fork.- Es crear una rama externa del repositorio de alguien a nuestro repo-
+sitorio para trabajar en el.
+-------------------------------------------------------------------------------
+El "fork" es una de las operativas comunes con el trabajo en Git y GitHub. 
+Básicamente sirve para crear una copia de un repositorio en tu cuenta de usua-
+rio. Ese repositorio copiado será básicamente un clon del repositorio desde el 
+que se hace el fork, pero a partir de entonces el fork vivirá en un espacio 
+diferente y podrá evolucionar de manera distinta, a tu propio cargo.
+(desarrolloweb.com    
