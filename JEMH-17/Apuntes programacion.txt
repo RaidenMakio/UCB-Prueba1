@@ -1,0 +1,34 @@
+(apuntes 01/03/24)
+Semana 4 (actual) y en la semana 8 o 9 habra examen en introduccion a la programacion solo usar apuntes (imprimir tabla, no copiar y pegar)
+-"pasar todas las pruebas para la tarea" (semana 6,7 y 8 sera practica) 
+Por cada ejercicio va a pedir:............
+pasos para utilizar una funcion: 1: crear un prototipo de la funcion. 2: cuerpo de la funcion. 3: llamada de la funcion.
+Metodologia: Analisis 
+anali 1 (definir entradas y salidas) 
+sis   2 (comprender la relacion de las entradas y salidas)
+3 diseño (cambio de nombre a pseudocodigo o diagrama de flujo)
+4 implementacion (o codigo c++ su cambio de nombre)
+5 pruebas.
+
+
+¿Guardar un "string" en un "entero"?
+
+"Mientras mas complejo sea el problema mas beneficioso sera."
+-Ejemplo: nos puede dar un pseudocodigo hecho y tenemos que escribir su codigo. 
+Crear un prototipo de funsion con un tipo de salida vacio (void), luego show_msg (string name)
+short (int age):
+void show_msg (string name, cout<< "sunombre es <<name<<and"
+
+examen detalle: revisar hasta el pseudocodigo
+cout << pueded es>>age 
+scout o alcance de una variable
+
+Requisito para saber o tener conocimiento de la proxima clase: tabla de verdades (aritmetica) conjuntos, productos logicos 
+leer todas las diapositivas que mande (control de flujo) 
+"Operaciones logicas"<
+"producto logico" (sumar bits, restar bits o multiplicar bits es mas sencillo que hacer algo complejo)
+manejar bien esas 4 tablas que sacaste fotos
+cuerpo d la funcion vacia y lo van a tener que rellenar 
+¿Como pasar un pseudocodigo a codigo?
+Cuale son las condiciones para....
+cada ejercicio con entrada y salida (exercise ppp)
