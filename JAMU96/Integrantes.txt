@@ -1,0 +1,18 @@
+Integrantes:
+Sebas
+Agustin
+Santi
+
+
+Concierto de bonny Lovy
+
+<Introducción>:llegar a crear un sitio web con la finalidad de reducir la aglomeración de nuestros posibles clientes mediante la venta online de tickets.
+
+<Alcance del producto>:Reducir costos y recuperar la inversion
+
+<Valor del producto>: Reducir tiempo en la compra de ticket y evitar filas en los puntos de venta.
+
+
+<Publico objetivo>: fans de bonny lovy
+
+<Descripcion General>:Informacion del evento, boton de compra de tickets, permitir la elección de la ubicacion del asiento en el concierto, link a redes sociales del artista.
