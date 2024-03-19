@@ -1,48 +1,36 @@
-# Requisitos de Software Venta de tickets
-## 1.Introduccion 
->Se busca alcanzar una plataforma para mejorar la organizacion ,busqueda y optimizacion de los tickets de evento
-### 1.1 Alcance del producto
-> Diseño Grafico/Web
->>* Buscar recurso grafico , imagen de fondo
->>* Escoger paleta de colores 
-
-> Informacion del Cliente
->>* Buscar informacion del perfil del cliente
-
-> Objetivo General:
->>* Crear una pagina sencilla para vender tickets de manera optima y eficiente
-
->Objetivos Especificos:
->Establecer las metricas a evaluar:
->>* Cuantos tickets se vendieron
->>* La ganacia total de todos los tickets
-
->Componer los reportes de metricas 
->Componer su pagina 
-
-> Metas:
->* Una pagina web estilo venta de tickets 
->* Permita elegir asiento y reservar
->* Reportes mensuales de las metricas al cliente
-
-### 1.2 Valor del producto
->* Mayor alcance al publico
->* Mayor optimizacion en la  venta de los tickets y mayor fluidez
->* Capacidad de reducir gasto humano por la optimizacion de la plataforma.
->* Informacion detalla de los tickets de manera rapida y facil como lugar de asiento y mas. 
-### 1.3 Publico objetivo
->* Jovenes y mujeres mayores a 18 años 
-### 1.4 Uso previsto
->* El público objetivo tendra mayor comodida y fácil acceso a la hora de comprar tickets de evento
-
-## 2.Cronograma/Calendario/Estimacion de Tiempos
->* Según el siguiente Diagrama de Gantt, vamos a proceder a la ejecucion del proyecto de la siguiente manera:
-![ERROR](https://github.com/josue-balbontin/proyecto-tickets/blob/main/diagrama%20de%20gantt.png)
-
+# DOCUMENTO DE ESPECIFICACION DE REQUISITOS DE SOFTWARE "PEDIDOS AHORITA"
+## 1. Introducción 
+##### Describe el propósito del documento.
+>* El objetivo de este documento es demostrar y detallar en general los detalles generales que va a abarcar el protecto para su facil entendimiento y su desarollo
+>* El documento se va a hacer presente al cliente Makiovic para que tenga conocimientos generales del proyecto
+## 1.1 Alcance del producto 
+##### Diseño Grafico
+>* Se nos ha echo conocer que el apartado del desarollo Artisitico va a tener un Diseño externo
+##### Objetivo general
+>* Crear una aplicacion tanto para celular como para computadora de pedidos de alimentos a travez de delivery que sea intituiva y rapida 
+##### Objetivos Especificos
+>* Establecer metricas (ingresos,egresos,clientes activos,clientes en total)
+>* Componer reportes de la metricas
+>* Visualizacion del pedido en tiempo real 
+>* Realizar Metodos de Pago
+>* Realizar Soporte tecnico y preguntas frecuentes
+>* Realizar tags para que el cliente puede encontrar mas facil lo que desea consumir 
+>* Diseño simple y intuitivo 
+>* Perfil de usuario
+>* Recomendaciones y ofertas
+## 1.2 Valor del producto 
+>* Una aplicacion sensilla y de facil acceso con muchas funcionalidades 
+>* Velocidad a la hora de hacer los pedidos y en plataformas tanto moviles como pcs 
+>* Aplicacion con caracteristicas unicas tales como los tags y personalizacion
+## 1.3 Público objetivo 
+>  Personas adultas mayores de 18 años 
+## 1.4 Uso previsto 
+> El publico objetivo tendra una aplicacion inituitiva que le permitira pedir comida eficientemente y a casi cualquier hora del dia
+# 2.Cronograma/Calendario/Estimacion de Tiempos
+> Según el siguiente Diagrama de Gantt, vamos a proceder a la ejecucion del proyecto de la siguiente manera:
+![ERROR](https://github.com/josue-balbontin/UCB-Prueba1/blob/cascada/JGBU31/grantt.png)
 ## 3.Presupuesto 
->* En la siguiente tabla, se detallan todos los costes a considerar para el proyecto:
-
+> Aun no se tiene concretado con el cliente y esta en validacion pero se espera unos 20000$
 ## 4.Diseño
->En la siguíente imagen, se muestra la escructura del diseño de la página estilo Venta de tickets:
-![ERROR](https://raw.githubusercontent.com/josue-balbontin/proyecto-tickets/main/pagina%20de%20venta%20de%20tickets.png?token=GHSAT0AAAAAACOI3L3652IMSE5RDQWIYORKZPKPDOQ)
-
+En la siguíente imagen, se muestra la escructura del diseño de la aplicacion:
+![ERROR](https://github.com/josue-balbontin/UCB-Prueba1/blob/cascada/JGBU31/Imagen%20de%20la%20app.jpeg)
