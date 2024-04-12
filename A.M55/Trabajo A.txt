@@ -1,0 +1,27 @@
+# 1. Introduccion
+Este documento busca la elaboracion de una sitio web para la venta de tikets dentro de el territorio Boliviano, esto en base la ineficacia de los medios actuales de venta, compra, reserva y envio de tikets de  distintos eventos los cuales esten ocurriendo dentro del pais siendo que buscamos que nuesttro sitio web se pueda ser usado tanto en el celular como tambien en la computadora siendo que buscamos crear una experiencia mejor para la compra de tikets basandonos de los mejores aspectos de las otras paginas.
+##  1.1 Alcance del producto
+Objetivo General:
+Crear un sitio web capas de facilitar al usuario de la compra, venta, reserva y envio de tikets de una mejor manera que los otros sitios web 
+Objetivos Especificos:
+- Establecer las metricas por las cuales se desarrollara el trabajo
+- Establer un perido de tiempo para la generacion y entrga de un inofrme del estado y desarrollo del proyecto.
+- Facilitar la promocion de los eventos con la distribucion de informacion mediante el sitio web
+- Facilitar la venta, compra, venta y reserva de tikets
+  Metas:
+- Componer una pagina la cual se peuda usar de manera intuitiva y facilite la compra, venta, reserva y envio de tikets
+- Reportes "Mensuales" de las metricas del proyecto
+## 1.2 Valor del producto
+Beneficios:
+- Promociones proporcinales a la cantidad de boletos comprados
+- Informacion mas detalla de los distintos eventos los cuales tienen acceso en la pagina web 
+- Publicitar a de los distintos eventos dentro de la pagina por medio de promiciones y colaboraciones 
+## 1.3 Publico objetivo
+Jovenes Y Mujeres en el rango de edad de los 17 a 45 años
+## 1.4 Uso previo
+Dar un acceso mas facil a el publico objetivo de manera tal que estos puedan acceder a los productos y links relacionasdos de manera sencilla e intuitiva
+## 1.5 Definiciones y acronimos
+
+## Cronograma
+
+## Diseño
