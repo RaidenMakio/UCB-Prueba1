@@ -28,9 +28,9 @@
 > El publico objetivo tendra una aplicacion inituitiva que le permitira pedir comida eficientemente y a casi cualquier hora del dia
 # 2.Cronograma/Calendario/Estimacion de Tiempos
 > Según el siguiente Diagrama de Gantt, vamos a proceder a la ejecucion del proyecto de la siguiente manera:
-![ERROR](https://github.com/josue-balbontin/UCB-Prueba1/blob/cascada/JGBU31/grantt.png)
+![ERROR](https://github.com/josue-balbontin/UCB-Prueba1/blob/cascada/grantt.png)
 ## 3.Presupuesto 
 > Aun no se tiene concretado con el cliente y esta en validacion pero se espera unos 20000$
 ## 4.Diseño
 En la siguíente imagen, se muestra la escructura del diseño de la aplicacion:
-![ERROR](https://github.com/josue-balbontin/UCB-Prueba1/blob/cascada/JGBU31/Imagen%20de%20la%20app.jpeg)
+![ERROR](https://github.com/josue-balbontin/UCB-Prueba1/blob/cascada/Imagen%20de%20la%20app.jpeg)
